@@ -119,7 +119,7 @@ This project was evaluated as part of the
 ## 📥 Full Report
 
 The complete written project (LaTeX/PDF) is available in:  
-📄 `report/Semi_Supervised_CT_Segmentation.pdf`
+📄 `REPORT.pdf`
 
 It includes:
 - Methodology
