@@ -131,7 +131,7 @@ It includes:
 
 ## 👥 Contributors
 
-- *[Your Name]*  
+- Guillaume Henon-Just & Emilie Pic 
   Master MVA, ENS Paris-Saclay  
   Course by Stéphane Mallat, Collège de France  
   Collaboration with Raidium
