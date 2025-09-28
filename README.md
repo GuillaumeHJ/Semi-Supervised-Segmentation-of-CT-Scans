@@ -91,17 +91,16 @@ We observed:
 
 ## ✅ Repository Structure
 
-ctscan-segmentation-semisupervised/
+```text
+Sem-Supervised-Segmentation-of-CT-Scans/
 ├── README.md
-├── report/
-│ └── Semi_Supervised_CT_Segmentation.pdf
+├── REPORT.pdf
 ├── src/
-│ ├── supervised/
-│ ├── semisupervised/
-│ └── utils/
-├── data/ # placeholder (no real data included)
-├── results/
-└── figs/
+│ ├── models/
+│ ├── utils/
+│ ├── run.py
+│ └── Raidium_Challenge_Data_2025_Exemple_Data_Handling.ipynb
+```
 
 
 ---
