@@ -1,0 +1,15 @@
+scikit-image
+numpy
+pandas
+opencv-python
+tqdm
+matplotlib
+scikit-learn
+scipy
+torchvision
+termcolor
+pyyaml
+torchmetrics
+tensorboard
+torchvision
+einops
