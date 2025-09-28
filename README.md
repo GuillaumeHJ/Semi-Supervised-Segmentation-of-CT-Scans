@@ -129,12 +129,12 @@ It includes:
 
 ---
 
-## 👥 Contributors
+## 👥 Contributors & Academic Context
 
 - Guillaume Henon-Just & Emilie Pic 
-  Master MVA, ENS Paris-Saclay  
-  Course by Stéphane Mallat, Collège de France  
-  Collaboration with Raidium
+- Master MVA, ENS Paris-Saclay
+- Course by Stéphane Mallat, Collège de France
+- Collaboration with Raidium
 
 ---
 
