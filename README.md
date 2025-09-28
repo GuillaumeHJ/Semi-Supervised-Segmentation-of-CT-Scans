@@ -75,10 +75,6 @@ This increase was marginal but measurable.
 Training was constrained by GPU availability  
 (Kaggle P100 GPU → +10h per full run).
 
-Here are the final learning curves for Teacher–Student and Pretraining/Finetuning:
-
-![](figs/SSL_TrainingCurves.png)
-
 We observed:
 - Slight gain in Dice during the second phase
 - Limited impact due to:
